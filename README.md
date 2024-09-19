@@ -70,7 +70,7 @@ In this project, we apply various testing types including Unit Testing, Integrat
 
 </details>
 
-## Project Workflow
+## Project Recommended Workflow
 
 <details>
   <summary><strong>Click to read more</strong></summary>
